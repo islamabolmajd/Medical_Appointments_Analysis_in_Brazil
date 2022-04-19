@@ -14,7 +14,7 @@ Alcoholism
 Handcap
 SMS_received
 No-show
-we could try to ask many questions here :
+we could try to ask many questions here and we hope to get the answer :
 does recieving a SMS resuled more paitients to show in the scheduled day ?
 does Alcoholisim affect people showing in the scheduled day ?
 does hipertension affect paitient show rate ?
